@@ -83,4 +83,77 @@ padding: 70px;
     margin-left: 100px;
 }
 
+.diect-help1{
+    padding: 50px;
+    
+    
+    
+}
+
+.first1{
+    display: inline-flex;
+}
+
+.icon1{
+    padding: 20px 20px 70px;
+}
+
+.icon1-text{
+    padding: 20px 0.1px 0px;
+}
+.icon1-text p{
+    font-size: 15px;
+    color: gray;
+    margin-top: 10px;
+}
+.no1{
+    background-color: rgb(246, 228, 228);
+    display: inline-flex;
+    border-radius: 5px;
+    margin: 6px;
+    margin: 6px 6px 6px 6px;
+  
+}
+
+.no2{
+    background-color: rgb(246, 228, 228);
+    display: inline-flex;
+    border-radius: 5px;
+    margin: 6px;
+    margin: 6px 6px 6px 6px;
+    
+}
+.no3{
+    background-color: rgb(246, 228, 228);
+    display: inline-flex;
+    border-radius: 5px;
+    margin: 6px;
+    margin: 6px 6px 6px 6px;
+}
+
+.no4{
+    background-color: rgb(246, 228, 228);
+    display: inline-flex;
+    border-radius: 5px;
+    margin: 6px 6px 6px 6px;
+    
+}
+.no5{
+    background-color: rgb(246, 228, 228);
+    display: inline-flex;
+    border-radius: 5px;
+    margin: 6px;
+    margin: 6px 6px 6px 6px;
+
+    
+  
+}
+
+.no6{
+    background-color: rgb(246, 228, 228);
+    display: inline-flex;
+    border-radius: 5px;
+    margin: 6px 6px 6px 6px;
+    
+}
 
