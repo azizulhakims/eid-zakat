@@ -167,9 +167,18 @@
 }
 
 .blog-img {
+    display: block;
     display: inline-flex; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .img1 {
+    display: block;
+    align-items: center;
     padding: 70px 20px 40px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
