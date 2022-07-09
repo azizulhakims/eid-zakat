@@ -167,9 +167,7 @@
 }
 
 .blog-img {
-    display: inline-flex;
-    margin: 6px;
-    padding: 10px;
+    display: inline-flex; 
 }
 
 .img1 {
